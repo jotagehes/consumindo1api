@@ -1,0 +1,25 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.cabecalho{
+    background-color: rgb(46, 126, 255);
+    height: 5rem;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+    padding-top: 2rem;
+}
+
+.rodape{
+    text-align: center;
+    background-color: rgb(46, 126, 255);
+    height: 50vh;
+}
+.pe{
+    font-size: 2rem;
+    padding-top: 7rem;
+    font-weight: 600;
+}
+#imagem__cachorro{
+    float: right;
+}
